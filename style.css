@@ -33,6 +33,10 @@ h1 {
     color: white 
 }
 
+.dividingline {
+    color: brown;
+}
+
 .telecasterartists {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

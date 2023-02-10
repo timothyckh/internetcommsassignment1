@@ -1,4 +1,5 @@
-body {width: 1360px; margin: 0 auto;}
+body {width: 1360px; 
+    background-color: burlywood ; margin: 0 auto;}
 
 p,a {
     font-size: 15px;
